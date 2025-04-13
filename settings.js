@@ -15,9 +15,9 @@ global.pairingCode = "6282114101214"
 global.owner = "6285705081577"
 global.namaOwner = "PRIME XUU"
 
-global.dana = "Tidak Ada Payment Dana"
-global.ovo = "Tidak Ada Payment Ovo"
-global.gopay = "Tidak Ada Payment Gopay"
+global.dana = "081388691442"
+global.ovo = "081388691442"
+global.gopay = "081388691442"
 global.qris = "https://files.catbox.moe/oq0gtb.jpg"
 
 let file = require.resolve(__filename);
